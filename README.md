@@ -6,12 +6,11 @@ I think i might want to use rust for this and maybe solidjs or vuejs for fronten
 
 ## key ideas
 
-automatically pull from my photos folder in icloud
-
-use gaussian splatting to make some 3d images and integrate a viewer
-
-host images with webtorrent or with my webtorrent npm app
-
-service workers for offline viewing?
+mount images from icloud directly to server with icloud-for-linux
 
 metadata and exif visualization and integration
+
+custom delivery into scaffolding, deliver high quality images, visualize each section as it arrives
+
+## Resources 
+
